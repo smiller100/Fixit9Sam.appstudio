@@ -1,4 +1,4 @@
-
+/*
 btnMember.onclick=function(){
   memberName = inptFirstName.value
   if (memberName == members)
@@ -11,3 +11,4 @@ else
 
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
+*/
