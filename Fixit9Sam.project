@@ -41,6 +41,22 @@
             "membership",
             "membership.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ABMadLibs",
+            "ABMadLibs.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ABFourControls",
+            "ABFourControls.json"
+          ]
         }
       ],
       "configxml": null,
@@ -61,11 +77,11 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "login",
+      "firstform": "ABMadLibs",
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",
-      "icon": "nsb/images/LauncherIcon57.png",
+      "icon": "",
       "iconAndroid": "nsb/images/192.png",
       "id": "App1",
       "jqWidgetsLicence": "",
