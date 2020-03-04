@@ -1,4 +1,4 @@
-/*
+
 btnSubmitML.onclick=function(){
   let noun1 = inptNoun1.value
   let noun2 = inptNoun2.value
@@ -24,5 +24,18 @@ btnSubmitML.onclick=function(){
 
 btnReset.onclick=function(){
   lblResult.value = 'Play again!'
+  inptNoun1.value = ''
+  inptNoun2.value = ''
+  inptNoun3.value = ''
+  inptNoun4.value = ''
+  inptNoun5.value = ''
+  inptNoun6.value = ''
+  inptNoun7.value = ''
+  inptVerb1.value = ''
+  inptVerb2.value = ''
+  inptVerb3.value = ''
+  inptVerb4.value = ''
+  inptAdj1.value = ''
+  inptAdj2.value = ''
+  inptAdj3.value = ''
 }
-*/
