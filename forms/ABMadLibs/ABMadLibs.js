@@ -1,4 +1,4 @@
-
+/*
 btnSubmitML.onclick=function(){
   let noun1 = inptNoun1.value
   let noun2 = inptNoun2.value
@@ -25,3 +25,4 @@ btnSubmitML.onclick=function(){
 btnReset.onclick=function(){
   lblResult.value = 'Play again!'
 }
+*/

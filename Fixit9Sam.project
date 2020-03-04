@@ -49,6 +49,14 @@
             "ABMadLibs",
             "ABMadLibs.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ABFourControls",
+            "ABFourControls.json"
+          ]
         }
       ],
       "configxml": null,
